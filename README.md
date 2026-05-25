@@ -1,24 +1,28 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Khizar%20Hayat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Desktop%20%26%20Mobile%20App%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=15&descAlignY=60&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=200&section=header&text=Khizar%20Hayat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Aspiring%20Mobile%20App%20Developer&descSize=15&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+MERN+Stack+Developer;👨%E2%80%8D🏫+Programming+%26+MERN+Teacher;🧑%E2%80%8D💼+Team+Leader;🖥️+Desktop+App+Developer+%28MERN+%2B+Electron%29;📱+Aspiring+Android+%26+iOS+Dev+%28React+Native%29)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+MERN+Stack+Developer;👨%E2%80%8D🏫+Programming+%26+MERN+Teacher;🧑%E2%80%8D💼+Team+Leader;🖥️+Desktop+App+Developer+%28MERN+%2B+Electron%29;📱+Aspiring+Android+%26+iOS+Dev+%28React+Native%29" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khizar%20Hayat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khizarhayat)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khizarhayat@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-KhizarKhan0v0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhizarKhan0v0)
-[![Phone](https://img.shields.io/badge/Phone-%2B92--327--554--0725-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923275540725)
-
+  <a href="https://linkedin.com/in/khizar-hayat-0v0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Khizar%20Hayat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:khizarhayyat194@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/KhizarKhan0v0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-KhizarKhan0v0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="tel:+923275540725">
+    <img src="https://img.shields.io/badge/Phone-%2B92--327--554--0725-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
 </div>
 
 ---
@@ -226,23 +230,23 @@ I'm a passionate **MERN Stack Developer** and CS student who loves turning ideas
 ## 📬 Let's Connect
 
 <div align="center">
-
-I'm open to **internships**, **freelance projects**, and **collaboration** on interesting ideas.  
-Whether you want to build something together or just say hi — my inbox is always open! 👋
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khizarhayat)
-[![Gmail](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khizarhayat@gmail.com)
-
+  <p>I'm open to <b>internships</b>, <b>freelance projects</b>, and <b>collaboration</b> on interesting ideas.<br>
+  Whether you want to build something together or just say hi — my inbox is always open! 👋</p>
+  
+  <a href="https://linkedin.com/in/khizar-hayat-0v0" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:khizarhayyat194@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=KhizarKhan0v0&color=0e75b6&style=flat-square)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=100&section=footer" width="100%"/>
+  
+  *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=KhizarKhan0v0&color=0e75b6&style=flat-square)
 </div>
