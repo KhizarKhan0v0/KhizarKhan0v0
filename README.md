@@ -31,13 +31,13 @@
 
 ```js
 const khizar = {
-  role       : "MERN Stack Developer",
+  role       : "Full Stack Developer",
   university : "COMSATS University Islamabad, Vehari Campus",
-  degree     : "BS Computer Science (8th Semester) — CGPA: 3.64",
+  degree     : "BS Computer Science — CGPA: 3.65",
   location   : "Vehari, Punjab, Pakistan 🇵🇰",
   passion    : ["Building scalable web apps", "Teaching", "Problem Solving"],
-  currentFocus: "Final Year Project — MyCampusRide 🚌",
-  building   : ["Web Apps", "Desktop Apps (MERN)", "Mobile Apps (React Native)"],
+  currentFocus: "Admin Dashboard for Client to Manage all their websites",
+  building   : ["Web Apps", "Web Sites", "Desktop Apps (MERN)", "Mobile Apps (React Native)"],
   funFact    : "I debug code AND teach it — best of both worlds 😄"
 };
 ```
